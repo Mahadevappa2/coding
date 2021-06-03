@@ -20,6 +20,7 @@ public class ClientTest {
 		switch(choice)
 		{
 		case 1:DepartmentService.createDepartment();
+				System.out.println();
 		      break;
 
 		case 2:EmployeeService.createEmployee();
