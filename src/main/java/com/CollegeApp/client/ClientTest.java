@@ -21,6 +21,7 @@ public class ClientTest {
 		{
 		case 1:DepartmentService.createDepartment();
 				System.out.println();
+				System.out.println();
 		      break;
 
 		case 2:EmployeeService.createEmployee();
